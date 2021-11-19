@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { MdAddShoppingCart } from "react-icons/md";
 
 ReactDOM.render(
   <React.StrictMode>
